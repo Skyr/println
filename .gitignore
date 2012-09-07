@@ -9,6 +9,7 @@ target/
 lib_managed/
 src_managed/
 project/boot/
+.history
 
 # OSX
 .DS_Store
